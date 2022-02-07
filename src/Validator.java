@@ -1,3 +1,5 @@
+import java.util.Locale;
+
 public class Validator {
     final static int MAX_INT = 10;
     final static String IN_DATA_EXCEPTION = "строка не является математической операцией";
@@ -13,7 +15,7 @@ public class Validator {
         int secondNumber;
         boolean isItArab = false;
         boolean isItRoman = false;
-        String[] massInputData = inData.split("\\s");
+        String[] massInputData = inData.toUpperCase(Locale.ROOT).split("\\s");
         if (massInputData.length > 3) {
             throw new Exception(IN_DATA_OVERLOAD);
         }
