@@ -2,8 +2,9 @@ public class RomanNumConverter {
     private static final char I = 'I';
     private static final char V = 'V';
     private static final char X = 'X';
+    final static String NO_ROM = "не верный формат данных";
 
-    public static int convertRomToArab(String romanNumb) {
+    public static int convertRomToArab(String romanNumb) throws Exception {
         char[] romanStrFirst = romanNumb.toCharArray();
         char[] romanStr;
         romanStr = new char[romanStrFirst.length + 1];
@@ -28,9 +29,11 @@ public class RomanNumConverter {
                 if (romanStr[i] == X && romanStr[i - 1] != I) {
                     tensCount++;
                 }
+                else throw  new Exception(NO_ROM);
             }
         }
         finalArab = onesCount + fivesCount + (tensCount * 10);
+
         return finalArab;
     }
 
