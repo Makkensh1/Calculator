@@ -28,12 +28,10 @@ public class RomanNumConverter {
                 }
                 if (romanStr[i] == X && romanStr[i - 1] != I) {
                     tensCount++;
-                }
-                else throw  new Exception(NO_ROM);
+                } else throw new Exception(NO_ROM);
             }
         }
         finalArab = onesCount + fivesCount + (tensCount * 10);
-
         return finalArab;
     }
 
@@ -94,6 +92,6 @@ public class RomanNumConverter {
         } else if (romOnesCount == 9) {
             romOnes = "IX";
         }
-        return romHundreds  + romTens + romOnes;
+        return romHundreds + romTens + romOnes;
     }
 }
