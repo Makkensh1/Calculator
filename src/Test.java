@@ -27,7 +27,7 @@ public class Test {
         Calculator calculator;
         try {
             calculator = validator.validate(inputData);
-            result = calculator.calculate().equals(expectedResult);
+            result = calculator.calc().equals(expectedResult);
         } catch (Exception e) {
             result = e.getMessage().equals(expectedResult);
         }

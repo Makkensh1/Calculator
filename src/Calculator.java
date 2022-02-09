@@ -1,4 +1,4 @@
-public class Calculator {
+public class   Calculator {
     private boolean isArab;
     private MathOperations operation;
     private int firstNumber;
@@ -13,7 +13,7 @@ public class Calculator {
         this.secondNumber = secondNumber;
     }
 
-    public String calculate() throws Exception {
+    public String calc() throws Exception {
         if (secondNumber == 0 && operation.equals(MathOperations.Division)) {
             throw new Exception(WRONG_DIVISION);
         }

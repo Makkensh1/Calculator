@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="groovy-4.0.0" type="groovy-sdk">
+    <properties version="4.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-dateutil-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-astbuilder-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-docgenerator-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-cli-commons-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-cli-picocli-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-contracts-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-datetime-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-ginq-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-groovydoc-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-jsr223-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-console-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-macro-library-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-nio-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-json-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-macro-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-groovysh-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-test-junit5-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-sql-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-testng-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-servlet-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-toml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-templates-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-test-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-swing-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-jmx-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-typecheckers-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-xml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-ant-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-cli-picocli-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-ant-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-astbuilder-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-docgenerator-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-console-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-contracts-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-datetime-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-groovydoc-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-groovysh-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-jmx-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-json-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-jsr223-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-macro-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-ginq-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-macro-library-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-servlet-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-sql-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-cli-commons-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-nio-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-testng-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-test-junit5-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-toml-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-test-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-typecheckers-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-templates-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-swing-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-xml-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../NewCalc/groovy-dateutil-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

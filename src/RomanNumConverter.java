@@ -31,10 +31,10 @@ public class RomanNumConverter {
                 }
             }
         }
-        if (finalArab == 0) {
-             throw new Exception(NO_ROM);
-        }
         finalArab = onesCount + fivesCount + (tensCount * 10);
+        if (finalArab == 0) {
+            throw new Exception(NO_ROM);
+        }
         return finalArab;
     }
 
